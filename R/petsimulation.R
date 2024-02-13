@@ -13,7 +13,7 @@ usethis::use_git()
 #' }
 #' @export
 
-funny_pets <- data.frame(
+simulated_data <- data.frame(
   name = c("Terra", "Lucy", "Nala", "Lucky", "Carlson", "Snuckie", "Timon", "Skully", "Daisy", "Jack"),
   species = c("Dragon", "Robot Cat", "Phoenix", "Panther", "Pegasus", "Dog", "Rabbit", "Unicorn", "Gremlin", "Jaguar"),
   favorite_toy = c("Magic Wand", "Laser Pointer", "Golden Yarn", "Invisible Ball", "Galactic Wheel", "Mystery Box", "Cloud Fluff", "Rainbow Sprinkles", "Time Machine", "Marshmallow Stick"),
